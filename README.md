@@ -1,5 +1,9 @@
 # THREE JS STARTER
 
+## Requirements:
+- Node.js on your system so you can get access to npm (Node Package Manager) and npx (Node Package Runner)
+- Git on your system to clone the repo
+
 This is a starter project for Three Js.
 
 **Repository:** [suyash5053/three-js-starter](https://github.com/suyash5053/three-js-starter)
@@ -49,7 +53,3 @@ loader.load('./path/to/your/model.glb', (gltf) => {
   scene.add(model);
 });
 ```
-
-
-### Requirements:
-- Node.js on your system so you can get access to npm (Node Package Manager) and npx (Node Package Runner)
